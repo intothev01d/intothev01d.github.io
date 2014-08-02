@@ -1,5 +1,5 @@
 <div class="sidebar">
-  <div class="container sidebar-sticky">
+  <div class="container">
     <div class="sidebar-about">
       <h2>
         <a href="{{ site.baseurl }}">
@@ -26,6 +26,8 @@
         {% endif %}
       {% endfor %}
     </nav>
-    <p><a class="sidebar-nav-item" href="{{ site.github.repo }}">Built with Hyde v{{ site.version }}</a>&copy; {{ site.time | date: '%Y' }}. All rights reserved.</p>
+    <div class="container sidebar-sticky">
+      <p><a class="sidebar-nav-item" href="{{ site.github.repo }}">Built with Hyde v{{ site.version }}</a>&copy; {{ site.time | date: '%Y' }}. All rights reserved.</p>
+    </div>
   </div>
 </div>

@@ -7,7 +7,7 @@ permalink:        pretty
 
 # Setup
 title:            Lance Batson
-tagline:          ""
+tagline:          "Software Development"
 description:      "I'm a developer with an interest in web, mobile, desktop... really any type of software."
 url:              http://lancebatson.me
 baseurl:          /
@@ -22,4 +22,4 @@ paginate:         5
 version:          2.1.0
 
 github:
-  repo:           https://github.com/intothev01d/lancebatson.me
+  repo:           https://github.com/poole/hyde

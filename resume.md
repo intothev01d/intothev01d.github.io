@@ -3,7 +3,6 @@ layout: page
 title: Resume
 ---
 Lance Batson  
-Phone: [931-320-9175](tel:+19313209175)  
 Email: [lancebatsondev@gmail.com](mailto:lancebatsondev@gmail.com)  
 Web: [lancebatson.me](http://lancebatson.me)
 <br>
@@ -25,7 +24,7 @@ I've been programming for a little over 4 years now. I'm constantly learning mor
 
 ##### Employment History
 **2014-current**:<br>
-*Software Developer - MedHost in Franklin, TN*<br>
+*Software Developer I - MedHost in Franklin, TN*<br>
 
 **2013-2014**:<br>
 *Software Developer - Mobile Technology GIS Center at Austin Peay State University in Clarksville, TN*<br>

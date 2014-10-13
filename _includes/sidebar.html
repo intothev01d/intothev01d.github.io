@@ -1,22 +1,19 @@
 <div class="sidebar">
   <div class="container">
     <div class="sidebar-about">
-      <h2>
+      <h1>
         <a href="{{ site.baseurl }}">
           {{ site.title }}
         </a>
-      </h2>
+      </h1>
       <p>{{ site.description }}</p>
     </div>
-
     <nav class="sidebar-nav">
       <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}">Home</a>
-
       {% comment %}
         The code below dynamically generates a sidebar nav of pages with
         `layout: page` in the front-matter. See readme for usage.
       {% endcomment %}
-
       {% assign pages_list = site.pages %}
       {% for node in pages_list %}
         {% if node.title != null %}
@@ -26,6 +23,12 @@
         {% endif %}
       {% endfor %}
     </nav>
+    <div class="icons">
+      <a class="fa fa-github" href="{{ site.links.github }}"></a>
+      <a class="fa fa-stack-overflow" href="{{ site.links.stackoverflow }}"></a>
+      <a class="fa fa-linkedin" href="{{ site.links.linkedin }}"></a>
+      <a class="fa fa-paper-plane" href="mailto:{{ site.links.email }}"></a>
+    </div>
   </div>
   <div class="container sidebar-sticky">
     <p>Built with <a href="http://jekyllrb.com/">Jekyll</a> and <a href="https://github.com/poole/hyde">Hyde</a><br>

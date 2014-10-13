@@ -1,0 +1,17 @@
+.sidebar-about h1 {
+  font-family: "PT Sans", Helvetica, Arial, sans-serif;
+}
+.sidebar-about h1 a {
+  text-decoration: none;
+}
+.fa{
+  font-size: 30px;
+}
+.icons {
+  margin-left: -20px;
+  margin-bottom: 20px;
+}
+.icons a{
+  padding-left: 20px;
+  text-decoration: none;
+}

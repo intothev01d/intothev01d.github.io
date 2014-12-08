@@ -4,6 +4,10 @@
 .sidebar-about h1 a {
   text-decoration: none;
 }
+.sidebar-about img {
+  border-radius: 50%;
+  border: 2px solid #fff;
+}
 .fa{
   font-size: 30px;
 }
@@ -14,4 +18,9 @@
 .icons a{
   padding-left: 20px;
   text-decoration: none;
+}
+@media (max-width: 48em) {
+  .sidebar-about img {
+    margin: 0 auto;
+  }
 }

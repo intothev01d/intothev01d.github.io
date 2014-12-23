@@ -23,7 +23,7 @@ Below is the fixDateTime() function that simply removes the word 'at' from all s
 
 *The code makes the assumption that the start and end dates are in certain columns. If they are not the same for your sheet, in that you removed items or rearranged the format in the receipe you created, then you'll need to change the startTimeCol and endTimeCol values.*
 
-<script src="https://gist.github.com/intothev01d/90316d9cc3124434b595.js"></script>
+<script src="https://gist.github.com/Lbatson/90316d9cc3124434b595.js"></script>
 
 So, you've now got a spreadsheet that records every event in your calendar with correctly formated date and times. Since they are valid numbers now you can do things like calculate duration of the times in the cells. I've found the easiest way is to add a column at the end that will add a cell to each row with the duration by subtracting the end time from the start time. The formula uses arrayformula which will calcuate all future rows as well. Make sure to use the end time column letter in first and start date last in the below formula and format the column as number -> duration.
 

@@ -1,7 +1,13 @@
 ---
 layout: page
 title: Projects
----
+---  
+##### [iBeacon Dashboard](http://appcens.us/ibeacon-dashboard)
+A dashboard that displays data uploaded to [Parse](https://parse.com/) from an iOS application that monitors times of entry and exit in iBeacon regions.
+
+##### [Spotify Exporter](http://spotify-exporter.lancebatson.me)
+A small web application using the Spotify Web API that allows authorized users to download csv files of their playlists.
+
 ##### [Asset Management](http://www.apsu.edu/news/apsu-student-and-gis-center-develop-inventory-app)
 I designed and implemented a REST service using a PHP web framework for an asset management system during my time at the Mobile Techonology GIS Center at APSU. The system interfaces with the clients' exsiting software to extend functionality and allow inventory tracking and modification. This also included the creation of a web frontend built in part with Backbone.js and an iOS application that worked with the RESTful backend as well.
 

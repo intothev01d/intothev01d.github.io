@@ -7,30 +7,31 @@ Web: [lancebatson.me](http://lancebatson.me)
 <br>
 ### Employment History
 ***
-**Software Developer 1 - MedHost - Franklin, TN**  
+**Software Engineer 1 - MedHost - Franklin, TN**  
 *May 2014 - current*  
 
-- Design and implement business logic features for a web application built with Backbone.js.
-- Integrate new features into existing parts of the application.
-- Fix various bugs related to layout and functionality.
+- Lead transition of view system over to Marionette.js
+- Implement coding standards and best practices for JavaScript
+- Design and implement business logic features for a web application built with Backbone.js
+- Integrate new features into existing parts of the application
+- Fix various bugs related to layout and functionality
 
 **Software Developer - Mobile Tech GIS Center - APSU - Clarksville, TN**  
 *March 2013 - May 2014*  
 
-- Worked on several web and mobile applications, both existing and new.
-- Tasked with moving development practices and applications to a more structured and testable workflow.
-- Designed and implemented REST services using a PHP web framework to provide a standardized web API.
-- Created a web application with a PHP CMS and Backbone.js for use as an asset management system that interfaced with a client's existing system to extend functionality and allow inventory tracking and modification.
-- Created an accompanying iOS application for scanning inventory QR codes and saving/updating information via the API.
-- Transitioned web applications over to Node.js and implemented similar RESTful services for new and existing projects.
-- Built frontend foundation for future web applications using Angular.js
+- Move development practices and applications to a more structured and testable workflow
+- Design and implement REST services using a PHP web framework to provide a standardized web API
+- Create a web application with a PHP CMS and Backbone.js for use as an asset management system interfacing with a client's existing system to extend functionality and allow inventory tracking and modification
+- Create an accompanying iOS application for scanning inventory QR codes and saving/updating information via the API
+- Transition web applications over to Node.js and implement similar RESTful services for new and existing projects
+- Build frontend foundation for future web applications using Angular.js
 
 **SLA Leader for CSCI 1010E - APSU - Clarksville, TN**  
 *Spring Semester 2013*  
 
-- Taught an enhanced lab class for CSCI 1010E Intro to Programming in C++.
-- Responsible for creating a lesson plan each week that followed along with standard class sessions.
-- Reviewed and explained basic programming concepts in C++, answered questions related to assignments and problems, and helped prepare the students for quizzes and exams.
+- Teach an enhanced lab class for CSCI 1010E Intro to Programming in C++
+- Responsible for creating a lesson plan each week that follows along with standard class sessions
+- Review and explain basic programming concepts in C++, answer questions related to assignments and problems, and prepare the students for quizzes and exams
 
 ### Skills Summary
 ***

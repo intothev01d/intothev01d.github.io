@@ -32,7 +32,7 @@ Web: [lancebatson.me](http://lancebatson.me)
 
 - Taught an enhanced lab class for CSCI 1010E Intro to Programming in C++
 - Responsible for creating a lesson plan each week that followed along with standard class sessions
-- Reviewed and explained basic programming concepts in C++, answer questions related to assignments and problems, and prepare the students for quizzes and exams
+- Reviewed and explained basic programming concepts in C++, answered questions related to assignments and problems, and prepared the students for quizzes and exams
 
 ### Skills Summary
 ***

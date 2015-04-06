@@ -10,8 +10,9 @@ Web: [lancebatson.me](http://lancebatson.me)
 **Software Engineer 1 - MedHost - Franklin, TN**  
 *May 2014 - current*  
 
-- Lead transition of view system over to Marionette.js
+- Lead transition of frontend over to Marionette.js
 - Implement coding standards and best practices for JavaScript
+- Work on performance improvements and refactoring code on frontend
 - Design and implement business logic features for a web application built with Backbone.js
 - Integrate new features into existing parts of the application
 - Fix various bugs related to layout and functionality

@@ -37,7 +37,7 @@ Web: [lancebatson.me](http://lancebatson.me)
 ### Skills Summary
 ***
 - Programming Languages - JavaScript, HTML5, CSS3, Objective-C, Python, Java, PHP, SQL, C++
-- Platforms/Frameworks - iOS, Android, Marionette.js, Backbone.js, jQuery, Bootstrap, Angular.js, Node.js
+- Platforms/Frameworks - iOS, Android, Marionette.js, Backbone.js, jQuery, Bootstrap, React.js, Angular.js, Node.js
 - Database Systems - PostgreSQL, MySQL, SQLite
 - Development Operations - Vagrant, Virtual Box, AWS (EC2, S3)
 - Development Tools - IntelliJ, Xcode, Sublime Text, Vim

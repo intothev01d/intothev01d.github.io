@@ -3,7 +3,7 @@ layout: page
 title: Projects
 ---  
 ##### [Bitcoin Ticker](http://lancebatson.me/bitcoin-ticker)
-A web app that retrieves current bitcoin prices from the [Bitcoin Average API](https://bitcoinaverage.com/api) and displays the price as it changes along with a chart showing price fluctuations.
+A web app using React.js that retrieves current bitcoin prices from the [Bitcoin Average API](https://bitcoinaverage.com/api) and displays the price as it changes along with a chart showing price fluctuations.
 
 ##### [iBeacon Dashboard](http://appcens.us/ibeacon-dashboard)
 A web app dashboard that displays data uploaded to [Parse](https://parse.com/) from an iOS application that monitors times of entry and exit in iBeacon regions.

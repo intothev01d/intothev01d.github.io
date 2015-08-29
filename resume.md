@@ -7,8 +7,15 @@ Web: [lancebatson.me](http://lancebatson.me)
 <br>
 ### Employment History
 ***
+**Software Developer - PointClear Solutions - Nashville, TN**  
+*May 2015 - current*  
+
+- Consulted clients and helped to design and implement features in their front-end applications
+- Developed a healthcare engagement web application using React.js, Flux, Webpack, and SASS
+- Developed a web application for searching and reviewing healthcare providers using Angular.js, CoffeeScript, Jade and SASS
+
 **Software Engineer 1 - MedHost - Franklin, TN**  
-*May 2014 - current*  
+*May 2014 - May 2015*  
 
 - Led transition of frontend architecture over to Marionette.js
 - Implemented coding standards and best practices for JavaScript

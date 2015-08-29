@@ -11,8 +11,8 @@ Web: [lancebatson.me](http://lancebatson.me)
 *May 2015 - current*  
 
 - Consulted clients and helped to design and implement features in their front-end applications
-- Developed a healthcare engagement web application using React.js, Flux, Webpack, and SASS
-- Developed a web application for searching and reviewing healthcare providers using Angular.js, CoffeeScript, Jade and SASS
+- Developed a healthcare engagement web application using React.js, Flux, Webpack, and Sass
+- Developed a web application for searching and reviewing healthcare providers using Angular.js, CoffeeScript, Jade and Sass
 
 **Software Engineer 1 - MedHost - Franklin, TN**  
 *May 2014 - May 2015*  
@@ -20,7 +20,7 @@ Web: [lancebatson.me](http://lancebatson.me)
 - Led transition of frontend architecture over to Marionette.js
 - Implemented coding standards and best practices for JavaScript
 - Worked on performance improvements and refactoring code on frontend
-- Designed and implemented business logic features for a web application built with Backbone.js, jQuery, and Twitter Bootstrap
+- Designed and implemented business logic features for a web application built with Backbone.js, jQuery, Less, and Bootstrap
 - Integrated new features into existing parts of the application
 - Fixed various bugs related to layout and functionality
 

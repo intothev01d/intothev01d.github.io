@@ -1,10 +1,9 @@
 # Dependencies
-markdown:         redcarpet
-highlighter:      pygments
+markdown:         kramdown
+highlighter:      rouge
 
 # Permalinks
 permalink:        pretty
-relative_permalinks: true
 
 # Setup
 title:            Lance Batson
@@ -24,6 +23,8 @@ version:          2.1.0
 
 github:
   repo:           https://github.com/poole/hyde
+
+gems:             [jekyll-paginate]
 
 links:
   github:         https://github.com/lbatson

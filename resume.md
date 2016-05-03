@@ -3,14 +3,18 @@ layout: page
 title: Resume
 ---
 Email: [lancebatsondev@gmail.com](mailto:lancebatsondev@gmail.com)  
-Web: [lancebatson.me](http://lancebatson.me)
-<br>
+Web: [lancebatson.me](http://lancebatson.me)  
+
 ### Employment History
 ***
 **Software Developer - PointClear Solutions - Nashville, TN**  
 *May 2015 - current*  
 
-- Consulted clients and helped to design and implement features in their front-end applications
+- Consulted with clients and helped to design and implement their applications
+- Architected and developed a front-end web application for patient management using React.js, Redux, ES6/Babel, Webpack, and Sass
+- Developed microservices using Node.js, Swagger, and Docker for a healthcare patient management API.
+- Created and maintained CI builds using Jenkins for automating the testing and deployment process of both front-end assests and Docker containers.
+- Created an internal time-reporting tool using Node.js and MSSQL to email users and reports and to archive data from an existing API.
 - Developed a healthcare engagement web application using React.js, Flux, Webpack, and Sass
 - Developed a web application for searching and reviewing healthcare providers using Angular.js, CoffeeScript, Jade and Sass
 
@@ -43,10 +47,10 @@ Web: [lancebatson.me](http://lancebatson.me)
 
 ### Skills Summary
 ***
-- Programming Languages - JavaScript, CoffeeScript, HTML5, CSS3, Objective-C, Java, Python, PHP, SQL, C++
+- Programming Languages - JavaScript, CoffeeScript, HTML5, CSS3, Objective-C, Swift, Java, Python, PHP, SQL, C++
 - Platforms/Frameworks - iOS, Android, Node.js, React.js, Angular.js, Marionette.js, Backbone.js, jQuery, Bootstrap, Less, Sass 
 - Database Systems - PostgreSQL, MySQL, SQLite
-- Development Operations - Vagrant, Virtual Box, AWS (EC2, S3)
+- Development Operations - Docker, Vagrant, Virtual Box, AWS (EC2, S3, API Gateway)
 - Development Tools - IntelliJ, Xcode, Sublime Text, Vim
 - Version Control Systems - Git, Subversion
 - Proficient with Windows, Mac, and Linux operating systems.

@@ -49,8 +49,8 @@ Web: [lancebatson.me](http://lancebatson.me)
 ***
 - Programming Languages - JavaScript, CoffeeScript, HTML5, CSS3, Objective-C, Swift, Java, Python, PHP, SQL, C++
 - Platforms/Frameworks - iOS, Android, Node.js, React.js, Angular.js, Marionette.js, Backbone.js, jQuery, Bootstrap, Less, Sass 
-- Database Systems - PostgreSQL, MySQL, SQLite
-- Development Operations - Docker, Vagrant, Virtual Box, AWS (EC2, S3, API Gateway)
+- Database Systems - PostgreSQL, MSSQL, MySQL, SQLite
+- Development Operations - Docker, Vagrant, Virtual Box, AWS (EC2, S3, API Gateway), Azure
 - Development Tools - IntelliJ, Xcode, Sublime Text, Vim
 - Version Control Systems - Git, Subversion
 - Proficient with Windows, Mac, and Linux operating systems.

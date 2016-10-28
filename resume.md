@@ -10,10 +10,12 @@ Web: [lancebatson.me](http://lancebatson.me)
 **Software Developer - PointClear Solutions - Nashville, TN**  
 *May 2015 - current*  
 
-- Consulted with clients and helped to design and implement their applications
+- Consulted with clients and helped to plan and implement their applications
+- Architected and developed a medical device application for managing and communicating with an embedded controller over Bluetooth for iOS using Swift 2
+- Developed an app for a large educational institution that allows creating and managing assignments along with a custom calendar for scheduling them on iOS using Swift 2
 - Architected and developed a front-end web application for patient management using React.js, Redux, ES6/Babel, Webpack, and Sass
 - Developed microservices using Node.js, Swagger, and Docker for a healthcare patient management API.
-- Created and maintained CI builds using Jenkins for automating the testing and deployment process of both front-end assests and Docker containers.
+- Created and maintained CI builds using Jenkins for automating the testing and deployment process of both front-end assets and Docker containers.
 - Created an internal time-reporting tool using Node.js and MSSQL to email users and reports and to archive data from an existing API.
 - Developed a healthcare engagement web application using React.js, Flux, Webpack, and Sass
 - Developed a web application for searching and reviewing healthcare providers using Angular.js, CoffeeScript, Jade and Sass
@@ -21,9 +23,9 @@ Web: [lancebatson.me](http://lancebatson.me)
 **Software Engineer 1 - MedHost - Franklin, TN**  
 *May 2014 - May 2015*  
 
-- Led transition of frontend architecture over to Marionette.js
+- Led transition of front-end architecture over to Marionette.js
 - Implemented coding standards and best practices for JavaScript
-- Worked on performance improvements and refactoring code on frontend
+- Worked on performance improvements and refactoring code on front-end
 - Designed and implemented business logic features for a web application built with Backbone.js, jQuery, Less, and Bootstrap
 - Integrated new features into existing parts of the application
 - Fixed various bugs related to layout and functionality
@@ -36,7 +38,7 @@ Web: [lancebatson.me](http://lancebatson.me)
 - Created a web application with a PHP CMS and Backbone.js for use as an asset management system interfacing with a client's existing system to extend functionality and allow inventory tracking and modification
 - Created an accompanying iOS application for scanning inventory QR codes and saving/updating information via the API
 - Transitioned web applications over to Node.js and implemented similar RESTful services for new and existing projects
-- Built frontend foundation for future web applications using Angular.js
+- Built a front-end foundation for future web applications using Angular.js
 
 **SLA Leader for CSCI 1010E - APSU - Clarksville, TN**  
 *Spring Semester 2013*  

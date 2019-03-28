@@ -9,22 +9,22 @@ permalink:        pretty
 title:            Lance Batson
 tagline:          "Software Development"
 description:      "I'm a developer with an interest in web, mobile, desktop... really any type of software."
-url:              http://lancebatson.me
-baseurl:          /
+url:              https://lance.batson.us
+baseurl:          ""
 
 author:
   name:           "Lance Batson"
-  url:            http://lancebatson.me
+  url:            https://lance.batson.us
 
 paginate:         5
 
 # Custom vars
-version:          2.1.0
+version:          3.8.5
 
 github:
   repo:           https://github.com/poole/hyde
 
-gems:             [jekyll-paginate]
+plugins:          [jekyll-paginate]
 
 links:
   github:         https://github.com/lbatson

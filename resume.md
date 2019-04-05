@@ -3,12 +3,22 @@ layout: page
 title: Resume
 ---
 Email: [lancebatsondev@gmail.com](mailto:lancebatsondev@gmail.com)  
-Web: [lancebatson.me](http://lancebatson.me)  
+Web: [lance.batson.us](https://lance.batson.us)  
 
 ### Employment History
 ***
+**Mobile Development Lead - Bridgestone - Nashville TN**  
+*December 2016 - March 2019*
+
+- Led development and support of B2B / B2C mobile apps for iOS (Swift and Objective-C), Android (Java), and React Native (Javascript)
+- Developed B2B web applications using React (Javascript, HTML5, CSS), Java APIs, and AWS infrastructure.
+- Centralized and led distribution of mobile apps of various accounts using CI/CD tools (Microsoft Visual Studio App Center) for iOS and Android.
+- Owned and led initiatives to define, design, implement and support mobile solutions for common business and development processes, including development and delivery
+- Provided technical leadership, code review, coding standards, implementation, and system architecture designs for various mobile solutions
+- Led initiatives to define best practices and tooling for mobile and cross platform development (iOS, Android, React Native, Xamarin, Ionic, etc.)
+
 **Software Developer - PointClear Solutions - Nashville, TN**  
-*May 2015 - current*  
+*May 2015 - December 2016*  
 
 - Consulted with clients and helped to plan and implement their applications
 - Architected and developed a medical device application for managing and communicating with an embedded controller over Bluetooth for iOS using Swift 2
@@ -49,8 +59,8 @@ Web: [lancebatson.me](http://lancebatson.me)
 
 ### Skills Summary
 ***
-- Programming Languages - JavaScript, CoffeeScript, HTML5, CSS3, Objective-C, Swift, Java, Python, PHP, SQL, C++
-- Platforms/Frameworks - iOS, Android, Node.js, React.js, Angular.js, Marionette.js, Backbone.js, jQuery, Bootstrap, Less, Sass 
+- Programming Languages - JavaScript, TypeScript, HTML5, CSS3, Objective-C, Swift, Java, Python, PHP, SQL, C++
+- Platforms/Frameworks - iOS, Android, React Native, Node.js, React.js, Angular.js, Marionette.js, Backbone.js, jQuery, Bootstrap, Less, Sass 
 - Database Systems - PostgreSQL, MSSQL, MySQL, SQLite
 - Development Operations - Docker, Vagrant, Virtual Box, AWS (EC2, S3, API Gateway), Azure
 - Development Tools - IntelliJ, Xcode, Sublime Text, Vim
@@ -64,7 +74,13 @@ Web: [lancebatson.me](http://lancebatson.me)
 
 - B.S. in Computer Science, minor in Mobile Software Development - 2014 GPA: 3.88
 - Charter Member of the APSU Chapter of Upsilon Pi Epsilon (Honor Society for Computing and Information Disciplines)
-- Member of the APSU chapter of the ACM (Association for Computing Machinery)
+- Member of the APSU chapter of the ACM (Association for Computing Machinery)  
+
+### Certifications
+***
+**Scrum.org**  
+
+- PSM 1 - Professional Scrum Master
 
 ### Achievements
 ***

@@ -8,7 +8,7 @@ permalink:        pretty
 # Setup
 title:            Lance Batson
 tagline:          "Software Development"
-description:      "I'm a developer with an interest in web, mobile, desktop... really any type of software."
+description:      "I'm a developer that's focused on building quality software for the web and mobile devices"
 url:              https://lance.batson.us
 baseurl:          ""
 
@@ -28,6 +28,6 @@ plugins:          [jekyll-paginate]
 
 links:
   github:         https://github.com/lbatson
-  stackoverflow:  http://stackoverflow.com/users/1415348/lbatson
+  stackoverflow:  https://stackoverflow.com/users/1415348/lbatson
   linkedin:       https://www.linkedin.com/pub/lance-batson/55/467/758
   email:          lancebatsondev@gmail.com

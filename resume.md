@@ -2,11 +2,16 @@
 layout: page
 title: Resume
 ---
-Email: [lancebatsondev@gmail.com](mailto:lancebatsondev@gmail.com)  
-Web: [lance.batson.us](https://lance.batson.us)  
+
+Lance Batson
+============  
+
+> Email: [lancebatsondev@gmail.com](mailto:lancebatsondev@gmail.com)  
+> Web: [lance.batson.us](https://lance.batson.us)  
+
+----  
 
 ### Employment History
-***
 **Mobile Development Lead - Bridgestone - Nashville TN**  
 *December 2016 - March 2019*
 
@@ -50,15 +55,7 @@ Web: [lance.batson.us](https://lance.batson.us)
 - Transitioned web applications over to Node.js and implemented similar RESTful services for new and existing projects
 - Built a front-end foundation for future web applications using Angular.js
 
-**SLA Leader for CSCI 1010E - APSU - Clarksville, TN**  
-*Spring Semester 2013*  
-
-- Taught an enhanced lab class for CSCI 1010E Intro to Programming in C++
-- Responsible for creating a lesson plan each week that followed along with standard class sessions
-- Reviewed and explained basic programming concepts in C++, answered questions related to assignments and problems, and prepared the students for quizzes and exams
-
 ### Skills Summary
-***
 - Programming Languages - JavaScript, TypeScript, HTML5, CSS3, Objective-C, Swift, Java, Python, PHP, SQL, C++
 - Platforms/Frameworks - iOS, Android, React Native, Node.js, React.js, Angular.js, Marionette.js, Backbone.js, jQuery, Bootstrap, Less, Sass 
 - Database Systems - PostgreSQL, MSSQL, MySQL, SQLite
@@ -69,7 +66,6 @@ Web: [lance.batson.us](https://lance.batson.us)
 - Able to work with others as a team but also take the lead, organize, and work independently.
 
 ### Education
-***
 **Austin Peay State University**  
 
 - B.S. in Computer Science, minor in Mobile Software Development - 2014 GPA: 3.88
@@ -77,12 +73,7 @@ Web: [lance.batson.us](https://lance.batson.us)
 - Member of the APSU chapter of the ACM (Association for Computing Machinery)  
 
 ### Certifications
-***
 **Scrum.org**  
 
 - PSM 1 - Professional Scrum Master
 
-### Achievements
-***
-- Designed and developed Numberator, my first iOS application released on the App Store, between December 2012 and January 2013. It is a random number generator that generates numbers in a given range, which can be viewed individually, in lists, or emailed.
-- Created an iOS application, Algebra Tiles app for the iPad, as part of a research project to determine the effectiveness of virtual manipulatives in the classroom. Built the application in May 2012 and finished the first version in September 2012. Finished the research in January 2013 and was invited to and presented at NCUR 2013

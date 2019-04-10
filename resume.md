@@ -15,11 +15,11 @@ Lance Batson
 **Mobile Development Lead - Bridgestone - Nashville TN**  
 *December 2016 - March 2019*
 
-- Led development and support of B2B / B2C mobile apps for iOS (Swift and Objective-C), Android (Java), and React Native (Javascript)
+- Led team for development and support of B2B / B2C mobile apps for iOS (Swift and Objective-C), Android (Java), and React Native (Javascript)
 - Developed B2B web applications using React (Javascript, HTML5, CSS), Java APIs, and AWS infrastructure.
 - Centralized and led distribution of mobile apps of various accounts using CI/CD tools (Microsoft Visual Studio App Center) for iOS and Android.
 - Owned and led initiatives to define, design, implement and support mobile solutions for common business and development processes, including development and delivery
-- Provided technical leadership, code review, coding standards, implementation, and system architecture designs for various mobile solutions
+- Provided technical leadership, mentoring of developers, code review, coding standards, implementation, and system architecture designs for various mobile solutions
 - Led initiatives to define best practices and tooling for mobile and cross platform development (iOS, Android, React Native, Xamarin, Ionic, etc.)
 
 **Software Developer - PointClear Solutions - Nashville, TN**  
@@ -40,6 +40,7 @@ Lance Batson
 
 - Led transition of front-end architecture over to Marionette.js
 - Implemented coding standards and best practices for JavaScript
+- Led feature development and provided mentoring of development team
 - Worked on performance improvements and refactoring code on front-end
 - Designed and implemented business logic features for a web application built with Backbone.js, jQuery, Less, and Bootstrap
 - Integrated new features into existing parts of the application
